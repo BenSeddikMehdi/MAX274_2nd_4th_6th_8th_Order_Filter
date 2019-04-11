@@ -1,9 +1,6 @@
 # MAX274 2nd, 4th, 6th and 8th Order Filters.
 
-The MAX274 is continuous-time active filter consisting of independent cascadable 2nd-Order sections.
-
- It comprises four 2nd-order section.
-
+The MAX274 and MAX275 are continuous-time active filters consisting of independent cascadable 2nd-order sections. Each section can implement any all-pole bandpass or lowpass filter response, such as Butterworth, Bessel, Chebyshev, and is programmed by four external resistors. The MAX274/MAX275 provide lower noise that switched-capacitor filters, as well as superior dynamic performance—both due to the continuous-time design. Since continuous-time filters do not require a clock, aliased and clock noise are eliminated with the MAX274/MAX275.
 
 I have worked on the implementation of BandPass and LowPass filters of several orders 2nd, 4th, 6th and 8th.
 
