@@ -8,3 +8,4 @@ Firstly, I started with reading the Datasheet of MAX274 to understand how things
 
 Once we done with 2nd-Order filter we duplicate it 3 times, and connect them in Cascade Mode to obtain the filter of 8th-Order.
 
+# By El Mehdi
